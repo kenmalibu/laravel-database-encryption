@@ -1,5 +1,5 @@
 {
-    "name": "austinheap/laravel-database-encryption",
+    "name": "kenmalibu/laravel-database-encryption",
     "description": "A package for automatically encrypting and decrypting Eloquent attributes in Laravel 5.5+, based on configuration settings.",
     "keywords": [
         "laravel",
@@ -14,27 +14,15 @@
         "db",
         "aes",
         "laravel5",
-        "laravel55",
-        "laravel56",
-        "laravel57",
-        "laravel58",
-        "l5",
         "laravel encryption",
-        "laravel5 encryption",
-        "laravel55 encryption",
-        "laravel56 encryption",
-        "laravel57 encryption",
-        "laravel58 encryption",
         "eloquent encryption",
         "model encryption",
         "attribute encryption",
         "database encryption",
-        "laravel5 aes",
-        "eloquent aes",
         "elocrypt",
         "elocryptfive"
     ],
-    "homepage": "https://github.com/austinheap/laravel-database-encryption",
+    "homepage": "https://github.com/kenmalibu/laravel-database-encryption",
     "license": "MIT",
     "authors": [
         {
@@ -45,10 +33,6 @@
         }
     ],
     "replace": {
-        "delatbabel/elocryptfive": "*",
-        "dtisgodsson/elocrypt": "*"
-    },
-    "conflict": {
         "delatbabel/elocryptfive": "*",
         "dtisgodsson/elocrypt": "*"
     },
